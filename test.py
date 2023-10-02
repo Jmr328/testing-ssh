@@ -1,2 +1,3 @@
 print("Hello World Again")
-print("Hid my secrets")
+for i in range(10):
+    print(i)
